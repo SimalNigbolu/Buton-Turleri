@@ -1,16 +1,14 @@
-# buton_turleri
+# Flutter Buton Örnekleri
 
-A new Flutter project.
+Bu proje, Flutter'da kullanılan farklı buton türlerini basit örneklerle göstermektedir.  
+Amaç, yeni başlayanların farklı stillerde buton kullanımlarını kolayca öğrenmesini sağlamaktır.
 
-## Getting Started
+## Kullanılan Butonlar:
+- ElevatedButton
+- TextButton
+- OutlinedButton
+- IconButton
+- FloatingActionButton
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Uygulama Görünümü
+<img src="images/buton_turleri.png" width="400"/>
